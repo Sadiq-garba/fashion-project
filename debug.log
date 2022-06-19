@@ -1,0 +1,15 @@
+[1210/235907.670:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1211/012318.376:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1211/012318.531:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1211/103520.108:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1211/103520.157:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Godwin\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\829ec168-ae8d-4aff-9468-4348a04ea648: The system cannot find the path specified. (0x3)
+[1211/120803.710:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1212/120804.752:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0123/175401.019:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0226/163812.495:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0306/170901.133:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0307/180533.635:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0322/153255.919:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0323/160936.258:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0407/213302.263:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0507/015046.626:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
